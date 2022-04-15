@@ -1,0 +1,12 @@
+{
+    "operationName": "getRegistrations",
+    "variables": {
+        "id": "",
+        "first": 25,
+        "skip": 0,
+        "orderBy": "expiryDate",
+        "orderDirection": "asc",
+        "expiryDate": ""
+    },
+    "query": "query getRegistrations($id: ID!, $first: Int, $skip: Int, $orderBy: Registration_orderBy, $orderDirection: OrderDirection, $expiryDate: Int) {\n  account(id: $id) {\n    registrations(first: $first, skip: $skip, orderBy: $orderBy, orderDirection: $orderDirection, where: {expiryDate_gt: $expiryDate}) {\n      expiryDate\n      domain {\n        labelName\n        labelhash\n        name\n        isMigrated\n        parent {\n          name\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"
+}
