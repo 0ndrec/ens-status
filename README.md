@@ -16,8 +16,6 @@
 </div>
 
 
-<!-- Run Locally -->
-### :running: Clone
 
 Clone the project
 
@@ -36,9 +34,7 @@ Install dependencies
 ```bash
   pip install requests
 ```
-
-<!-- Usage -->
-## :eyes: Usager
+Usage
 
 ```bash
   python __main__.py 0x...
