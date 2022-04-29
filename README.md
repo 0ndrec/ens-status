@@ -28,12 +28,7 @@ Go to the project directory
 ```bash
   cd ql_ens_status
 ```
-
-Install dependencies
-
-```bash
-  pip install requests
-```
+  
 Usage
 
 ```bash
