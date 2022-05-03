@@ -20,13 +20,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/0ndrec/ql_ens_status.git
+  git clone https://github.com/0ndrec/ENS-status.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ql_ens_status
+  cd ENS-status
 ```
   
 Usage
