@@ -12,7 +12,7 @@
 ### :camera: Screenshot
 
 <div align="center"> 
-  <img src="https://github.com/0ndrec/ql_ens_status/blob/main/none.png" alt="screenshot" />
+  <img src="https://github.com/0ndrec/ql_ens_status/blob/main/img.png" alt="screenshot" />
 </div>
 
 
