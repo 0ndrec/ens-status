@@ -32,5 +32,5 @@ Go to the project directory
 Usage
 
 ```bash
-  python __main__.py 0x...
+  python ens.py 0x...
 ```
