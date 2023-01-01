@@ -20,7 +20,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/0ndrec/ENS-status.git
+  git clone https://github.com/0ndrec/ens-status.git
 ```
 
 Go to the project directory
